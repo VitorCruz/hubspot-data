@@ -1,12 +1,7 @@
 import requests
 import json
-import pandas as pd
-from hubspot import HubSpot
-from dateutil import parser
-import hubspot
 from datetime import datetime
 import pytz
-
 
 ## GET API KEY IN MY HD
 with open('C:\\Users\\vitorc\\Desktop\\Celcoin\\api-key.txt') as f:
