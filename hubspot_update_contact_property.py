@@ -3,6 +3,8 @@ import json
 from datetime import datetime
 import pytz
 
+## SCRIPT TO UPDATE A PROPERTY IN HUBSPOT CONTACTS (DATE FORMAT, SO IT NEED TO BE ADJUSTED TO UTC MIDNIGHT IN TIMESTAMP)
+
 ## GET API KEY IN MY HD
 with open('C:\\Users\\vitorc\\Desktop\\Celcoin\\api-key.txt') as f:
     api_key = f.readline()
