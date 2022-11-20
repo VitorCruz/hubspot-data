@@ -1,4 +1,4 @@
-# HUBSPOT API DATa
+# HUBSPOT API DATA
 Scripts using Hubspot's API to access and write data, day to day tasks and major account migration.
 
 Scripts in Python used to access Hubspot for several activies throughout the year. 
